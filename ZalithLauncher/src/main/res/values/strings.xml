@@ -1450,7 +1450,7 @@
     <string name="disclaimer_title">Unofficial Version</string>
     <string name="disclaimer_content">This is an unofficial modified version of Zalith Launcher 2.</string>
     <string name="disclaimer_original_repo">Original Repo</string>
-    <string name="launcher_fork_subtitle">a fork of Zalith Launcher 2</string>
+    <string name="launcher_fork_subtitle">Made in India</string>
     <string name="settings_renderer_external_driver">External Driver</string>
     <string name="settings_renderer_download_turnip">Download Turnip Driver</string>
     <string name="settings_renderer_download_turnip_summary">Select a Turnip driver version and download it from GitHub</string>
